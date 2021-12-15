@@ -1,7 +1,7 @@
 <h1 align="center">DEVs Dungeon</h1>
 
 <div align=center>
-    <img width="200px" src="https://github.com/Devs-Dungeon/DEVs-Dungeon/blob/main/profile%20pic.jpg" />
+    <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/profile%20pic.jpg" />
 </div>
 
 

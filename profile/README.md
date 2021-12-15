@@ -29,7 +29,8 @@
 :briefcase: Daily Jobs/Internships/Scholarships Updates  
 🏆 Daily Hackathons/Competitions Updates  
 
+---
 
-<hr>
+To join **DEVs Dungeon** GitHub Organization, click [here](https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
 Join our Discord Community [here](https://discord.io/DEVsDungeon)

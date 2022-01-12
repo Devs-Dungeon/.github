@@ -43,14 +43,10 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h2 align="center"> 🔗 Connect with Us </h2>
-<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />
-<img align="left" alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />
-<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />
-<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />
 
-[mail]: mailto:devs.dungeon.community@gmail.com
-[linkedin]: https://www.linkedin.com/company/devs-dungeon/
-[twitter]: https://twitter.com/devs_dungeon
-[discord]: https://discord.gg/ceMXzhfaka
+[<img align="left" alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:devs.dungeon.community@gmail.com)
+[<img align="left" alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/devs-dungeon/)
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)
+[<img align="left" alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />](https://discord.gg/ceMXzhfaka)
 
 

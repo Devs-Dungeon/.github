@@ -6,7 +6,10 @@
 
 <h1 align="center">DEVs Dungeon</h1>
 
-<b><u>DEVs Dungeon</u></b> is a __**Developer's Learning Community**__ & we aim to ***connect developers*** from across the world to ***recruiters & other developers!***  We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for ***jobs, internships*** or want to ***grow*** in their field of interest. Here are some of the awesome thing you will find:
+<p align="left">
+    <ins><b>DEVs Dungeon</b></ins> is a <b>Developer's Learning Community</b>. Our aim is to <b>connect developers</b> from across the world to <b>recruiters and other developers!</b> 
+We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for <b>jobs, internships</b> or want to <b>grow</b> in their field of interest. Here are some of the awesome thing you will find:
+</p>
 
 :one: **Active Community** that rewards **swags :gift:, game pass :video_game:, course coupons :tickets:** etc. based on your server activity!
 

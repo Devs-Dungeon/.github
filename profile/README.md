@@ -1,14 +1,37 @@
 
 
 <div align=center>
-    <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/profile%20pic.jpg" />
+    <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/profile-pic.jpg" />
 </div>
 
-<h1 align="center">DEVs Dungeon</h1>
 
+<h1 align="center"><ins>📍 DEVs Dungeon Community 📍</ins></h1>
+
+
+<h2>📌 <ins>About Us</ins></h1>
 <p align="left">
-    <ins><b>DEVs Dungeon</b></ins> is a <b>Developer's Learning Community</b>. Our aim is to <b>connect developers</b> from across the world to <b>recruiters and other developers!</b> 
-We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for <b>jobs, internships</b> or want to <b>grow</b> in their field of interest. Here are some of the awesome thing you will find:
+    ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
+    ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
+    ⭐ We are a community of <b>5k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
+</p>
+
+
+<h2>📌 <ins>Who is this Community for?</ins></h1>
+<p align="left">
+    ⭐ Anyone who wants to meet new friends and business contacts outside of their normal circle, or wants to learn programming or just want a chill space to relax and have fun! <br>
+    ⭐ A brief perspective of members in our Community: <br> 
+</p>
+
+<p style="margin-left:200px; margin-right:50px;">
+    ✨ Students from more than 30+ countries and various age groups starting from 14 yrs!
+        
+</p>
+    
+<p>
+    Whether you are a <b><ins>student</b></ins> who wants to learn programming or get a glimpse of developer's life, a <b><ins>working professional</b></ins> looking for a change in their career or wants to contribute back or share their experience, a <b><ins>recruiter</b></ins> looking for suitable people for a job, a <b><ins>mentor</b></ins> who wants to share his own career path and provide guidance, motivation, emotional support to help new comers!
+</p>
+
+<!-- We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for <b>jobs, internships</b> or want to <b>grow</b> in their field of interest. Here are some of the awesome thing you will find:
 </p>
 
 :one: **Active Community** that rewards **swags :gift:, game pass :video_game:, course coupons :tickets:** etc. based on your server activity!
@@ -38,14 +61,14 @@ We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-D
 :computer: Competitive Programming/DSA  <br>
 :robot: Machine Learning/Data Science  <br>
 :heavy_dollar_sign:  Blockchain Development/Cryptocurrency  <br>
-</p>
+</p> -->
 
-<h2 align="center"> Daily News & Information: </h3>
+<h2 align="center"> Global News & Information: </h3>
 <p align = "center">
-:ticket: Daily Events, Workshops & Bootcamps Updates  <br>
-:trophy: Daily Hackathons, Competitions & Free Swags Updates <br>
-:briefcase: Daily Jobs, Internships, Scholarships & Referral Updates  <br>
-:fire: Weekly National, International, Sports, Science & Tech News  <br>
+:ticket: Global Events, Workshops & Bootcamps Updates  <br>
+:trophy: Global Hackathons, Competitions & Free Swags Updates <br>
+:briefcase: Global Jobs, Internships, Scholarships & Referral Updates  <br>
+:fire: Global International, Sports, Science & Tech News  <br>
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

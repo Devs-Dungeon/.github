@@ -15,7 +15,6 @@
     ⭐ We are a community of <b>5k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
 </p>
 
-4  5
 
 <h2>📌 <ins>Who is this Community for?</ins></h2>
 <p>

@@ -21,11 +21,11 @@
     ⭐ Anyone who wants to meet new friends and business contacts outside of their normal circle, or wants to learn programming or just want a chill space to relax and have fun! <br>
     ⭐ A brief perspective of members in our Community: <br> 
 <!-- <p style="text-indent: 200px"> -->
-    <p>
-    &emsp;✨ Students from more than 30+ countries and various age groups (some of us are just 14 years old) <br> 
-    &ensp;&nbsp;&nbsp;✨ Working professionals with more than 2+ yrs of experience looking for a new job or change in career <br> 
-    &ensp;&nbsp;&nbsp;✨ Mentors with more than 3+ yrs of experience helping and supporting new comers <br>
-    &emsp;✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br></p>
+    <ul>
+        ✨ Students from more than 30+ countries and various age groups (some of us are just 14 years old) <br> 
+        ✨ Working professionals with more than 2+ yrs of experience looking for a new job or change in career <br> 
+        ✨ Mentors with more than 3+ yrs of experience helping and supporting new comers <br>
+        ✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br>
 </p>
     
 
@@ -47,15 +47,30 @@
 
 <h2>📌 <ins>Do I have to pay something for being a part of this Community?</ins></h2>
 <p>
-    No, you don't have to pay a single penny for being a part of the community. We are a Community open to all and we welcome you all to join us and be an active part of our Community 🥳🥳
+    ⭐ No, you don't have to pay a single penny for being a part of the community. We are a Community open to all and we welcome you all to join us and be an active part of our Community 🥳🥳
 </p>
 
 
 <h2>📌 <ins>How do I join and become a part of <a href="">DEVs Dungeon Community</a>?</ins></h2>
 <p>
-    Join us on <a href="https://discord.gg/GqzWmqDKzU">Discord</a> to interact with 5k+ Developers onboard!!
+    ⭐ Join us on <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> to interact with 5k+ Developers onboard! <br>
+    ⭐ Join our <b><a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
 </p>
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div align="center">
     
+<h2 align="center"> 🔗 Connect with Us </h2>
+    
+[<img alt="DEVs Dungeon | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:devs.dungeon.community@gmail.com)
+    [<img alt="DEVs Dungeon | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/devs-dungeon/)
+    [<img alt="DEVs Dungeon | Facebook" width="100px" src="https://img.shields.io/badge/-Facebook-000000?logo=facebook&Color=0A66C2&style=flat-square" />](https://www.facebook.com/devs.dungeon/)
+    [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/devs.dungeon/)
+    [<img alt="DEVs Dungeon | Twitter" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)
+    
+</div>
+
 
 <!-- We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for <b>jobs, internships</b> or want to <b>grow</b> in their field of interest. Here are some of the awesome thing you will find:
 </p>
@@ -87,7 +102,7 @@
 :computer: Competitive Programming/DSA  <br>
 :robot: Machine Learning/Data Science  <br>
 :heavy_dollar_sign:  Blockchain Development/Cryptocurrency  <br>
-</p> -->
+</p>
 
 <h2 align="center"> Global News & Information: </h3>
 <p align = "center">
@@ -97,18 +112,6 @@
 :fire: Global International, Sports, Science & Tech News  <br>
 </p>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h2 align="center"> To join "DEVs Dungeon" GitHub Organization, click <a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization" >here</a> </h2>
-
-
-
-
-<div align="center">
-    
-<h2 align="center"> 🔗 Connect with Us </h2>
-    
-[<img alt="Subham | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:devs.dungeon.community@gmail.com)  [<img alt="Subham | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/company/devs-dungeon/)  [<img alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://twitter.com/devs_dungeon)  [<img alt="Subham | Discord" width="92px" src="https://img.shields.io/badge/-Discord-000000?logo=discord&Color=0A66C2&style=flat-square" />](https://discord.gg/ceMXzhfaka)
-    
-</div>
-
+ -->

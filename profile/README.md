@@ -26,6 +26,7 @@
         ✨ Working professionals with more than 2+ yrs of experience looking for a new job or change in career <br> 
         ✨ Mentors with more than 3+ yrs of experience helping and supporting new comers <br>
         ✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br>
+     </ul>
 </p>
     
 

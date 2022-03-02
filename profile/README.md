@@ -8,28 +8,55 @@
 <h1 align="center"><ins>📍 DEVs Dungeon Community 📍</ins></h1>
 
 
-<h2>📌 <ins>About Us</ins></h1>
-<p align="left">
+<h2>📌 <ins>About Us</ins></h2>
+<p>
     ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
     ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
     ⭐ We are a community of <b>5k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
 </p>
 
+4  5
 
-<h2>📌 <ins>Who is this Community for?</ins></h1>
-<p align="left">
+<h2>📌 <ins>Who is this Community for?</ins></h2>
+<p>
     ⭐ Anyone who wants to meet new friends and business contacts outside of their normal circle, or wants to learn programming or just want a chill space to relax and have fun! <br>
     ⭐ A brief perspective of members in our Community: <br> 
-</p>
-
-<p style="margin-left:200px; margin-right:50px;">
-    ✨ Students from more than 30+ countries and various age groups starting from 14 yrs!
-        
+<!-- <p style="text-indent: 200px"> -->
+    <p>
+    &emsp;✨ Students from more than 30+ countries and various age groups (some of us are just 14 years old) <br> 
+    &ensp;&nbsp;&nbsp;✨ Working professionals with more than 2+ yrs of experience looking for a new job or change in career <br> 
+    &ensp;&nbsp;&nbsp;✨ Mentors with more than 3+ yrs of experience helping and supporting new comers <br>
+    &emsp;✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br></p>
 </p>
     
+
+<h2>📌 <ins>What are the perks of being a part of the Community?</ins></h2>
 <p>
-    Whether you are a <b><ins>student</b></ins> who wants to learn programming or get a glimpse of developer's life, a <b><ins>working professional</b></ins> looking for a change in their career or wants to contribute back or share their experience, a <b><ins>recruiter</b></ins> looking for suitable people for a job, a <b><ins>mentor</b></ins> who wants to share his own career path and provide guidance, motivation, emotional support to help new comers!
+    ⭐ Share your work, get advice and collaboration from a large diverse group! <br> 
+    ⭐ Grow your connection and meet new friends and business contacts outside of your normal circle! <br> 
+    ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
+    ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 
+    Apart from all the perks mentioned above, below are a few more things that makes our Community stand out from others: <br>
+    🚀 A complete section dedicated to <b><ins>CAREER GROWTH</ins></b> where you can share your profile, directly get in contact with the recruiters, discuss about higher education, LinkedIn profile review, A-Z resources and career guidance. <br>
+    🚀 A seperate section for <b><ins>KAGGLER's</ins></b> to discuss, collaborate and share their work with others along with exclusive server <b>Kaggle Roles</b> which makes you stand out in the community! <br>
+    🚀 Get updates on all major <b><ins>GLOBAL</ins></b> Events, Workshops, Bootcamps, Internships, Jobs, Scholarships, Hackathons, etc. from across the world! <br>
+    🚀 <b><ins>STUDY GROUPS</ins></b> to get you started with programming languages like C++, Python, Java, etc DSA, Web-Dev, Data Science and ML/AI! <br>
+    🚀 Chance to earn <b><ins>SWAGS</ins></b> by being active in the community, winning any contests or tournaments! <br>
+    🚀 <b><ins>24/7 ACTIVE</ins></b> Music and Fun Bots & Games channel, Movie Nights on weekends, trivias and fun quizzes daily! <br>
 </p>
+
+
+<h2>📌 <ins>Do I have to pay something for being a part of this Community?</ins></h2>
+<p>
+    No, you don't have to pay a single penny for being a part of the community. We are a Community open to all and we welcome you all to join us and be an active part of our Community 🥳🥳
+</p>
+
+
+<h2>📌 <ins>How do I join and become a part of <a href="">DEVs Dungeon Community</a>?</ins></h2>
+<p>
+    Join us on <a href="https://discord.gg/GqzWmqDKzU">Discord</a> to interact with 5k+ Developers onboard!!
+</p>
+    
 
 <!-- We have developers from every domain (Web-Dev, App-Dev, ML/AI, Cloud-Dev, Game-Dev, UI/UX, etc.)  who are either looking for <b>jobs, internships</b> or want to <b>grow</b> in their field of interest. Here are some of the awesome thing you will find:
 </p>

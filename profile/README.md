@@ -48,13 +48,13 @@
     ⭐ Grow your connection and meet new friends and business contacts outside of your normal circle! <br> 
     ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
     ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 
-    Apart from all the perks mentioned above, below are a few more things that makes our Community stand out from others: <br>
-    🚀 A complete section dedicated to <b><ins>CAREER GROWTH</ins></b> where you can share your profile, directly get in contact with the recruiters, discuss about higher education, LinkedIn profile review, A-Z resources and career guidance. <br>
-    🚀 A seperate section for <b><ins>KAGGLER's</ins></b> to discuss, collaborate and share their work with others along with exclusive server <b>Kaggle Roles</b> which makes you stand out in the community! <br>
+    Apart from all the perks mentioned above, below are a few more things that make our Community stand out from others: <br>
+    🚀 A complete section dedicated to <b><ins>CAREER GROWTH</ins></b> where you can share your profile, directly get in contact with the recruiters, discuss higher education, LinkedIn profile review, A-Z resources, and career guidance. <br>
+    🚀 A separate section for <b><ins>KAGGLER's</ins></b> to discuss, collaborate and share their work with others along with exclusive server <b>Kaggle Roles</b> which makes you stand out in the community! <br>
     🚀 Get updates on all major <b><ins>GLOBAL</ins></b> Events, Workshops, Bootcamps, Internships, Jobs, Scholarships, Hackathons, etc. from across the world! <br>
-    🚀 <b><ins>STUDY GROUPS</ins></b> to get you started with programming languages like C++, Python, Java, etc DSA, Web-Dev, Data Science and ML/AI! <br>
+    🚀 <b><ins>STUDY GROUPS</ins></b> to get you started with programming languages like C++, Python, Java, etc DSA, Web-Dev, Data Science, and ML/AI! <br>
     🚀 Chance to earn <b><ins>SWAGS</ins></b> by being active in the community, winning any contests or tournaments! <br>
-    🚀 <b><ins>24/7 ACTIVE</ins></b> Music and Fun Bots & Games channel, Movie Nights on weekends, trivias and fun quizzes daily! <br>
+    🚀 <b><ins>24/7 ACTIVE</ins></b> Music and Fun Bots & Games channel, Movie Nights on weekends, trivia, and fun quizzes daily! <br>
 </p>
 
 

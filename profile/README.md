@@ -18,7 +18,7 @@
 
 <h2>📌 <ins>Who is this Community for?</ins></h2>
 <p>
-    ⭐ Anyone who wants to meet new friends and business contacts outside of their normal circle, or wants to learn programming or just want a chill space to relax and have fun! <br>
+    ⭐ Anyone who wants to meet new friends and business contacts outside of their normal circle, wants to learn programming or just wants a chill space to relax and have fun! <br>
     ⭐ A brief perspective of members in our Community: <br> 
 <!-- <p style="text-indent: 200px"> -->
     <ul>
@@ -27,12 +27,24 @@
         ✨ Mentors with more than 3+ yrs of experience helping and supporting new comers <br>
         ✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br>
      </ul>
+    ⭐ Domains of Interest:
+    <ul>
+        🧠 Machine Learning and AI <br> 
+        🖥️ Web Development <br> 
+        💻 MERN stack <br> 
+         📱  App Development <br> 
+         📱  UI/UX Development <br> 
+        🎮 Game Development <br> 
+         ☁  Cloud Development <br> 
+        🔗 Blockchain/Crypto <br> 
+        🤖 IoT/Embedded <br> 
+    </ul>
 </p>
     
 
 <h2>📌 <ins>What are the perks of being a part of the Community?</ins></h2>
 <p>
-    ⭐ Share your work, get advice and collaboration from a large diverse group! <br> 
+    ⭐ Share your work, get advice and collaborate with a large diverse group! <br> 
     ⭐ Grow your connection and meet new friends and business contacts outside of your normal circle! <br> 
     ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
     ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 

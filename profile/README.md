@@ -28,14 +28,13 @@
         ✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br>
      </ul>
     ⭐ Domains of Interest:
-    <ul>
-        🧠 Machine Learning and AI <br> 
+    <ul>        
+        &nbsp;📱 &nbsp;App Development <br> 
         🖥️ Web Development <br> 
-        💻 MERN stack <br> 
-         📱  App Development <br> 
-         📱  UI/UX Development <br> 
+        🎨 UI/UX Development <br> 
         🎮 Game Development <br> 
-         ☁  Cloud Development <br> 
+        ☁  Cloud Development <br> 
+        🧠 Machine Learning and AI <br> 
         🔗 Blockchain/Crypto <br> 
         🤖 IoT/Embedded <br> 
     </ul>
@@ -48,13 +47,13 @@
     ⭐ Grow your connection and meet new friends and business contacts outside of your normal circle! <br> 
     ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
     ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 
-    Apart from all the perks mentioned above, below are a few more things that make our Community stand out from others: <br>
-    🚀 A complete section dedicated to <b><ins>CAREER GROWTH</ins></b> where you can share your profile, directly get in contact with the recruiters, discuss higher education, LinkedIn profile review, A-Z resources, and career guidance. <br>
-    🚀 A separate section for <b><ins>KAGGLER's</ins></b> to discuss, collaborate and share their work with others along with exclusive server <b>Kaggle Roles</b> which makes you stand out in the community! <br>
-    🚀 Get updates on all major <b><ins>GLOBAL</ins></b> Events, Workshops, Bootcamps, Internships, Jobs, Scholarships, Hackathons, etc. from across the world! <br>
-    🚀 <b><ins>STUDY GROUPS</ins></b> to get you started with programming languages like C++, Python, Java, etc DSA, Web-Dev, Data Science, and ML/AI! <br>
-    🚀 Chance to earn <b><ins>SWAGS</ins></b> by being active in the community, winning any contests or tournaments! <br>
-    🚀 <b><ins>24/7 ACTIVE</ins></b> Music and Fun Bots & Games channel, Movie Nights on weekends, trivia, and fun quizzes daily! <br>
+    <h3>🔥 <ins>EXCLUSIVE PERKS:</ins></h3>
+    🚀 <b><ins>CAREER GROWTH</ins></b>: A complete section dedicated to connect with recruiters, discuss higher education, A-Z resources, and career guidance. <br>
+    🚀 <b><ins>KAGGLER's</ins></b>: A separate section to discuss, collaborate and share your work with others along with exclusive server <b>Kaggle Roles</b>! <br>
+    🚀 <b><ins>GLOBAL UPDATES</ins></b>: Get updates on all major global Events, Workshops, Internships, Jobs, Scholarships, Hackathons, etc. across the world! <br>
+    🚀 <b><ins>STUDY GROUPS</ins></b>: Master skills like C++, Python, Java, DSA, Web-Dev, Data Science, and ML/AI! <br>
+    🚀 <b><ins>SWAGS & GOODIES</ins></b>: Chance to earn goodies by being active in the community, winning any contests or tournaments! <br>
+    🚀 <b><ins>24/7 ACTIVE CHAT</ins></b>: Music and Fun Bots & Games channel, Movie Nights on weekends, trivia, and fun quizzes daily! <br>
 </p>
 
 

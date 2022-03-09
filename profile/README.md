@@ -48,7 +48,7 @@
     ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
     ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 
     <h3>🔥 <ins>EXCLUSIVE PERKS:</ins></h3>
-    🚀 <b><ins>CAREER GROWTH</ins></b>: A complete section dedicated to connect with recruiters, discuss higher education, A-Z resources, and career guidance. <br>
+    🚀 <b><ins>CAREER GROWTH</ins></b>: A complete section dedicated to connect with recruiters, discuss higher education, A-Z resources & career guidance. <br>
     🚀 <b><ins>KAGGLER's</ins></b>: A separate section to discuss, collaborate and share your work with others along with exclusive server <b>Kaggle Roles</b>! <br>
     🚀 <b><ins>GLOBAL UPDATES</ins></b>: Get updates on all major global Events, Workshops, Internships, Jobs, Scholarships, Hackathons, etc. across the world! <br>
     🚀 <b><ins>STUDY GROUPS</ins></b>: Master skills like C++, Python, Java, DSA, Web-Dev, Data Science, and ML/AI! <br>

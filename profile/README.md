@@ -5,9 +5,6 @@
 </div>
 
 
-<h1 align="center"><ins>📍 DEVs DUNGEON COMMUNITY 📍</ins></h1>
-
-
 <h2>📌 <ins>About Us</ins></h2>
 <p>
     ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>

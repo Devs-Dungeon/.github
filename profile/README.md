@@ -1,11 +1,11 @@
 
 
 <div align=center>
-    <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/profile-pic.jpg" />
+    <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/logowhite.png" />
 </div>
 
 
-<h1 align="center"><ins>📍 DEVs Dungeon Community 📍</ins></h1>
+<h1 align="center"><ins>📍 DEVs DUNGEON COMMUNITY 📍</ins></h1>
 
 
 <h2>📌 <ins>About Us</ins></h2>

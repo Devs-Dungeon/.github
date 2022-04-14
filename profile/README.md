@@ -19,10 +19,10 @@
     ⭐ A brief perspective of members in our Community: <br> 
 <!-- <p style="text-indent: 200px"> -->
     <ul>
-        ✨ Students from more than 30+ countries and various age groups (some of us are just 14 years old) <br> 
-        ✨ Working professionals with more than 2+ yrs of experience looking for a new job or change in career <br> 
-        ✨ Mentors with more than 3+ yrs of experience helping and supporting new comers <br>
-        ✨ Recruiters looking for interns for different roles like Graphic Designer, Video Editor, Business Development Intern; junior or senior developers in different domains like Web, Blockchain, Data Science, Devops etc. <br>
+        ✨ Students from more than 30+ countries <br> 
+        ✨ Mentors helping and guiding students with their experience <br> 
+        ✨ Working professionals or job seekers <br>
+        ✨ Recruiters looking for interns or junior/senior developers <br>
      </ul>
     ⭐ Domains of Interest:
     <ul>        

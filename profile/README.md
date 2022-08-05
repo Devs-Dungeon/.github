@@ -9,7 +9,7 @@
 <p>
     ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
     ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
-    ⭐ We are a community of <b>7.5k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
+    ⭐ We are a community of <b>10k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
 </p>
 
 

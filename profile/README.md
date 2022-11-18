@@ -62,7 +62,8 @@
 
 <h2>📌 <ins>How do I join and become a part of <a href="https://devs-dungeon.github.io/bio/">DEVs Dungeon Community</a>?</ins></h2>
 <p>
-    ⭐ Join us on <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> to interact with 5k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://chat.whatsapp.com/K1zO6jBL0fZGLEl58xN6fI">WhatsApp</a></b> to interact with 5k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> to interact with 10k+ Developers onboard! <br>
     ⭐ Join our <b><a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
 </p>
 

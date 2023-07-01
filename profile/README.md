@@ -1,5 +1,3 @@
-
-
 <div align=center>
     <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/logowhite.png" />
 </div>
@@ -9,7 +7,7 @@
 <p>
     ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
     ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
-    ⭐ We are a community of <b>10k+ Developers</b> from across the world and use <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> as our primary platform for interaction! <br>
+    ⭐ We are a community of <b>25k+ Developers</b> from across the world and use <b><a href="https://nas.io/devs-dungeon">WhatsApp</a></b> as our primary community platform for interaction! <br>
 </p>
 
 
@@ -40,9 +38,9 @@
 
 <h2>📌 <ins>What are the perks of being a part of the Community?</ins></h2>
 <p>
-    ⭐ Share your work, get advice and collaborate with a large diverse group! <br> 
+    ⭐ Share your work, get advice, and collaborate with a large diverse group! <br> 
     ⭐ Grow your connection and meet new friends and business contacts outside of your normal circle! <br> 
-    ⭐ Seek professional development opportunities, get guidance, motivation and emotional support from the mentors! <br> 
+    ⭐ Seek professional development opportunities, receive guidance, motivation, and emotional support from the mentors! <br> 
     ⭐ Organize events and talks, share your voice and opinions, and in turn develop your personality and improve your soft speaking skills! <br><br> 
     <h3>🔥 <ins>EXCLUSIVE PERKS:</ins></h3>
     🚀 <b><ins>CAREER GROWTH</ins></b>: A complete section dedicated to connect with recruiters, discuss higher education, A-Z resources & career guidance. <br>
@@ -62,7 +60,7 @@
 
 <h2>📌 <ins>How do I join and become a part of <a href="https://devs-dungeon.github.io/bio/">DEVs Dungeon Community</a>?</ins></h2>
 <p>
-    ⭐ Join us on <b><a href="https://chat.whatsapp.com/Cr0Yy2gWtGxFCDYIRh1iuZ">WhatsApp</a></b> to interact with 5k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://nas.io/devs-dungeon">WhatsApp</a></b> to interact with 10k+ Developers onboard! <br>
     ⭐ Join us on <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> to interact with 10k+ Developers onboard! <br>
     ⭐ Join our <b><a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
 </p>

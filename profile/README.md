@@ -1,7 +1,8 @@
 <div align=center>
-    <img width="200px" src="https://github.com/Devs-Dungeon/.github/blob/main/profile/logowhite.png" />
-</div>
 
+<img src="https://github.com/Devs-Dungeon/.github/assets/56317368/dfbb29a5-d44c-416a-a79b-9cfa7249669d" width=200 height=200>
+
+</div>
 
 <h2>📌 <ins>About Us</ins></h2>
 <p>

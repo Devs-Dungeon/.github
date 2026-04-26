@@ -25,7 +25,7 @@
      </ul>
     ⭐ Domains of Interest:
     <ul>        
-        &nbsp;📱 &nbsp;App Development <br> 
+        📱 App Development <br> 
         🖥️ Web Development <br> 
         🎨 UI/UX Development <br> 
         🎮 Game Development <br> 
